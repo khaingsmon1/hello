@@ -1,1 +1,1 @@
-# hello
+This is the repo I made for the github introductory assignment for Psych 251. The purpose of this assignment is for me to learn how to create a repo, make changes, and push changes. 
